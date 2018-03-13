@@ -13,7 +13,7 @@ import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import it.aimconsulting.servizi.schema.ADTI.ADTIReport;
 
-
+import java.util.Collection;
 
 public class WriteData2XLS {
 	
